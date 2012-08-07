@@ -1,0 +1,27 @@
+Here's a list of the source files associated with my Micro Mart 'Learn Python on the Raspberry Pi' series.
+
+It's a six part series that runs from issue 1220 to 1225.
+
+Part 1: Diving In
+first.py
+
+Part 2: Going Loopy
+timer.py
+walk.py
+
+Part 3: Building Blocks
+func.py
+guess.py
+
+Part 3: A GUI World
+tk-basic.py
+tk-search.py
+
+Part 5: Turtle Fun
+turtle-square.py
+turtle-circles.py
+turtle-shapes.py
+turtle-pair.py
+
+Part 6: PyGame Basics
+pygame-follow.py
