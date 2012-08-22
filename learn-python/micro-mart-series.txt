@@ -13,7 +13,7 @@ Part 3: Building Blocks
 func.py
 guess.py
 
-Part 3: A GUI World
+Part 4: A GUI World
 tk-basic.py
 tk-search.py
 
