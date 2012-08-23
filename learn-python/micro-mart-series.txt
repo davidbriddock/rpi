@@ -1,6 +1,6 @@
-Here's a list of the source files associated with my Micro Mart 'Learn Python on the Raspberry Pi' series.
+This is the list of the source files associated with my 'Learn Python on the Raspberry Pi' series, published in the weekly Micro Mart magazine.
 
-It's a six part series that runs from issue 1220 to 1225.
+It's a six part series that runs from issue 1220 to 1225 - see davidbriddock.com  for more information.
 
 Part 1: Diving In
 first.py
