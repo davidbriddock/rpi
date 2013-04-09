@@ -1,0 +1,38 @@
+###########################################################################
+# MCPI
+
+This repository contains Python code and information for the Minecraft: Pi Edition game.
+
+All code examples are based on Python version 2 and were tested on the Raspian 'wheezy' image 2013-02-09-wheezy-raspbian.
+  
+
+###########################################################################
+# MCPI Basic Game Controls
+
+Keyboard control...
+W:        move forward
+S:        move backward
+A:        move left
+D:        move right
+Space:    jump (double tap to fly)
+E:        inventory window  
+1-8:      select inventory item
+Esc:      pause the game
+Tab:      release mouse without pausing
+
+Mouse control...
+Move:          look around and turn
+Left button:   remove block (hold)
+Right button:  place block, hit with sword
+Scroll wheel:  select inventory slot item
+
+
+###########################################################################
+# MCPI Links
+
+Minecraft Pi Edition:  pi.minecraft.net
+Minecraft Pi API:  goo.gl/3vTUo
+Minecraft wiki pages:  goo.gl/g8MmN
+Minecraft Blocks:  goo.gl/GUR3v
+Minecraft Data Values:  goo.gl/Xuiey
+ 
